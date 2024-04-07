@@ -6,8 +6,8 @@ public class Task2 {
     public void runTask() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("number of elements :");
-        int n = scanner.nextInt();
 
+        int n = scanner.nextInt();
         int[] arr = new int[n];
         System.out.println("enter the elements:");
         for (int i = 0; i < n; i++) {
