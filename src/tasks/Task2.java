@@ -23,7 +23,4 @@ public class Task2 {
         System.out.println("average = "+ average);
         scanner.close();
     }
-    public static void main(String[] args) {
-        new Task2().runTask();
-    }
 }

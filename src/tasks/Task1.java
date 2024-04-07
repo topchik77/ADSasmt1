@@ -23,7 +23,4 @@ public class Task1 {
         System.out.println("min value is " + min);
         scanner.close();
     }
-    public static void main(String[] args) {
-        new Task1().runTask();
-    }
 }
