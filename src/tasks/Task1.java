@@ -1,5 +1,5 @@
 package tasks;
-
+//Time Complexity: O(n)
 import java.util.Scanner;
 
 public class Task1 {

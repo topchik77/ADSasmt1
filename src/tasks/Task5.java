@@ -1,7 +1,7 @@
 package tasks;
 
 import java.util.Scanner;
-
+//time complexity O(2^n)
 public class Task5 {
     public void runTask(){
         Scanner scanner = new Scanner(System.in);

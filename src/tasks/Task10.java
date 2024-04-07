@@ -1,5 +1,5 @@
 package tasks;
-
+//time complexity O(log(min(a, b)))
 import java.util.Scanner;
 
 public class Task10 {

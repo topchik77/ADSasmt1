@@ -1,5 +1,5 @@
 package tasks;
-
+//time complexity O(log n)
 import java.util.Scanner;
 
 public class Task6 {
@@ -17,7 +17,7 @@ public class Task6 {
     }
 
     //this main part of the code executes the nth power
-    public static double power(double a, int n) {
+    private static double power(double a, int n) {
         if (n == 0) {
             return 1;
         } else if (n > 0) {
