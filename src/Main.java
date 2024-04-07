@@ -49,7 +49,7 @@ public class Main {
                 task10.runTask();
                 break;
             default:
-                System.out.println("Wrong task number");
+                System.out.println("enter task number from 1-10");
         }
         scanner.close();
     }
