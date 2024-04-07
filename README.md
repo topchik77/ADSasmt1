@@ -1,4 +1,5 @@
-This repository contains solutions to algorithm and data structure problems implemented in Java. Each problem is solved using functions and recursion, and the solutions are organized into separate classes for each task in the package called tasks.
+This repository contains solutions to algorithm and data structure problems implemented in Java. Each problem is solved using functions and recursion, and the solutions are organized into separate classes for each task in the package called tasks.                                                  
+*also Time Complexity for each solution is added
 
 Task1: Find the minimum element in an array.
 
