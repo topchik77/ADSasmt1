@@ -15,6 +15,8 @@ public class Task6 {
 
         scanner.close();
     }
+
+    //this main part of the code executes the nth power
     public static double power(double a, int n) {
         if (n == 0) {
             return 1;
