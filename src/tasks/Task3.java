@@ -10,10 +10,10 @@ public class Task3 {
         int n = scanner.nextInt();
         boolean is_prime = is_prime(n);
         if(n<=1) {
-            System.out.println(n+ " is prime");
+            System.out.println(n+ " is prime number");
         }
         else {
-            System.out.println(n+ " is composite");
+            System.out.println(n+ " is composite numer");
         }
         scanner.close();
     }
@@ -27,8 +27,5 @@ public class Task3 {
             }
         }
         return true;
-    }
-    public static void main(String[] args) {
-        new Task2().runTask();
     }
 }

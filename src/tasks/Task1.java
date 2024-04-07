@@ -20,7 +20,7 @@ public class Task1 {
                 min = arr[i];
             }
         }
-        System.out.println("min value is" + min);
+        System.out.println("min value is " + min);
         scanner.close();
     }
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-import tasks.Task1;
+import tasks.*;
 
 public class Main {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class Main {
                 task1.runTask();
                 break;
             case 2:
-                Task2 task2 = new Task2();
+                 Task2 task2 = new Task2();
                 task2.runTask();
                 break;
             case 3:
