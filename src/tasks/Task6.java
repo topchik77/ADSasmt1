@@ -11,7 +11,7 @@ public class Task6 {
         int n = scanner.nextInt();
 
         double result = power(a,n);
-        System.out.println(a+ " to the power of "+ );
+        System.out.println(a+ " to the power of "+ n);
 
         scanner.close();
     }
