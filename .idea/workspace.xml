@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6214dbd5-8d57-4436-8fb4-753b72e8693a" name="Changes" comment="task8">
+    <list default="true" id="6214dbd5-8d57-4436-8fb4-753b72e8693a" name="Changes" comment="task9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tasks/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tasks/Task10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tasks/Task10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712380449435</updated>
       <workItem from="1712380450579" duration="1451000" />
-      <workItem from="1712401358091" duration="24309000" />
+      <workItem from="1712401358091" duration="25097000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
@@ -198,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712511360584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="task9">
+      <option name="closed" value="true" />
+      <created>1712514151409</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712514151409</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +231,8 @@
     <MESSAGE value="task6" />
     <MESSAGE value="task7" />
     <MESSAGE value="task8" />
-    <option name="LAST_COMMIT_MESSAGE" value="task8" />
+    <MESSAGE value="task9" />
+    <option name="LAST_COMMIT_MESSAGE" value="task9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
