@@ -50,8 +50,12 @@ public class Main {
                     Task10 task10 = new Task10();
                     task10.runTask();
                     break;
+                case 11:
+                    defence defence = new defence();
+                    defence.runTask();
+                    break;
                 default:
-                    System.out.println("enter number 1-10.");
+                    System.out.println("enter number 1-10. 11th is defence");
             }
 
             System.out.println("do you want to finish or continue  program?");
